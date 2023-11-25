@@ -117,6 +117,8 @@ Implement the depth-first search (DFS) graph traversal algorithm. For a given in
 ### Input-Output format: 
 Your program will take a file name as its command-line input. This file includes a directed graph, and it follows the same format from part 2. Your program reads the contents of this file and constructs the graph data structure. The first line in this file provides the number of vertices in the graph. Each following line includes information about a weighted directed edge in the graph. Each weighted edge is described by the name of its pair of vertices, followed by the edge weight, separated by a space. Your program must read and construct this graph, perform a DFS traversal, and print out the graph vertices in order of DFS visitation. Each vertex is separated by a space and, finally, a newline character.
 
+![Screenshot 2023-11-25 170938](https://github.com/ktalla/PA2/assets/70788915/d61c8ebd-24a7-4436-b514-f17b34dac19b)
+
 Example Execution:<br>
 Let’s assume we have the following graph input file:<br>
 graph.txt<br>
